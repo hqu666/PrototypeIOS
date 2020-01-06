@@ -11,12 +11,21 @@
 		5F4723AF23C1C7F400E92508 /* StartUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4723AE23C1C7F400E92508 /* StartUp.swift */; };
 		5F4723B223C1D28F00E92508 /* CsUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4723B123C1D28F00E92508 /* CsUtil.swift */; };
 		5F4723B423C1D3C000E92508 /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4723B323C1D3C000E92508 /* Consts.swift */; };
+		5F7468F823C1E9720003B0DF /* wifi.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F023C1E9710003B0DF /* wifi.png */; };
+		5F7468F923C1E9720003B0DF /* ico_check_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F123C1E9720003B0DF /* ico_check_on.png */; };
+		5F7468FA23C1E9720003B0DF /* ico_check_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F223C1E9720003B0DF /* ico_check_off.png */; };
+		5F7468FB23C1E9720003B0DF /* key_bord_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F323C1E9720003B0DF /* key_bord_off.png */; };
+		5F7468FC23C1E9720003B0DF /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F423C1E9720003B0DF /* menu.png */; };
+		5F7468FD23C1E9720003B0DF /* power.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F523C1E9720003B0DF /* power.png */; };
+		5F7468FE23C1E9720003B0DF /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F623C1E9720003B0DF /* camera.png */; };
+		5F7468FF23C1E9720003B0DF /* RFid.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F723C1E9720003B0DF /* RFid.png */; };
 		5FBAC13623B9F4540051F175 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBAC13523B9F4540051F175 /* AppDelegate.swift */; };
 		5FBAC13823B9F4540051F175 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBAC13723B9F4540051F175 /* SceneDelegate.swift */; };
 		5FBAC13A23B9F4540051F175 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBAC13923B9F4540051F175 /* ContentView.swift */; };
 		5FBAC13C23B9F4550051F175 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FBAC13B23B9F4550051F175 /* Assets.xcassets */; };
 		5FBAC13F23B9F4550051F175 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FBAC13E23B9F4550051F175 /* Preview Assets.xcassets */; };
 		5FBAC14223B9F4550051F175 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FBAC14023B9F4550051F175 /* LaunchScreen.storyboard */; };
+		5FEF009E23C2207600C4B868 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FEF009D23C2207600C4B868 /* CheckBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,15 @@
 		5F4723AE23C1C7F400E92508 /* StartUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartUp.swift; sourceTree = "<group>"; };
 		5F4723B123C1D28F00E92508 /* CsUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CsUtil.swift; sourceTree = "<group>"; };
 		5F4723B323C1D3C000E92508 /* Consts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
+		5F7468EF23C1E94B0003B0DF /* barcord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barcord.png; sourceTree = "<group>"; };
+		5F7468F023C1E9710003B0DF /* wifi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wifi.png; path = ../wifi.png; sourceTree = "<group>"; };
+		5F7468F123C1E9720003B0DF /* ico_check_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ico_check_on.png; path = ../ico_check_on.png; sourceTree = "<group>"; };
+		5F7468F223C1E9720003B0DF /* ico_check_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ico_check_off.png; path = ../ico_check_off.png; sourceTree = "<group>"; };
+		5F7468F323C1E9720003B0DF /* key_bord_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = key_bord_off.png; path = ../key_bord_off.png; sourceTree = "<group>"; };
+		5F7468F423C1E9720003B0DF /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu.png; path = ../menu.png; sourceTree = "<group>"; };
+		5F7468F523C1E9720003B0DF /* power.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = power.png; path = ../power.png; sourceTree = "<group>"; };
+		5F7468F623C1E9720003B0DF /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = camera.png; path = ../camera.png; sourceTree = "<group>"; };
+		5F7468F723C1E9720003B0DF /* RFid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RFid.png; path = ../RFid.png; sourceTree = "<group>"; };
 		5FB8461023C09B5B00391B17 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5FBAC13223B9F4540051F175 /* PrototypeIOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrototypeIOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FBAC13523B9F4540051F175 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -33,6 +51,7 @@
 		5FBAC13E23B9F4550051F175 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5FBAC14123B9F4550051F175 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FBAC14323B9F4550051F175 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FEF009D23C2207600C4B868 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,8 +69,25 @@
 			isa = PBXGroup;
 			children = (
 				5F4723B123C1D28F00E92508 /* CsUtil.swift */,
+				5FEF009D23C2207600C4B868 /* CheckBox.swift */,
 			);
 			path = Function;
+			sourceTree = "<group>";
+		};
+		5F7468EE23C1E8FD0003B0DF /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				5F7468F623C1E9720003B0DF /* camera.png */,
+				5F7468F223C1E9720003B0DF /* ico_check_off.png */,
+				5F7468F123C1E9720003B0DF /* ico_check_on.png */,
+				5F7468F323C1E9720003B0DF /* key_bord_off.png */,
+				5F7468F423C1E9720003B0DF /* menu.png */,
+				5F7468F523C1E9720003B0DF /* power.png */,
+				5F7468F723C1E9720003B0DF /* RFid.png */,
+				5F7468F023C1E9710003B0DF /* wifi.png */,
+				5F7468EF23C1E94B0003B0DF /* barcord.png */,
+			);
+			path = icon;
 			sourceTree = "<group>";
 		};
 		5FBAC12923B9F4540051F175 = {
@@ -73,6 +109,7 @@
 		5FBAC13423B9F4540051F175 /* PrototypeIOS */ = {
 			isa = PBXGroup;
 			children = (
+				5F7468EE23C1E8FD0003B0DF /* icon */,
 				5F4723B023C1D23400E92508 /* Function */,
 				5FBAC13523B9F4540051F175 /* AppDelegate.swift */,
 				5FB8461023C09B5B00391B17 /* AppDelegate.h */,
@@ -155,8 +192,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F7468FF23C1E9720003B0DF /* RFid.png in Resources */,
+				5F7468FE23C1E9720003B0DF /* camera.png in Resources */,
 				5FBAC14223B9F4550051F175 /* LaunchScreen.storyboard in Resources */,
+				5F7468FD23C1E9720003B0DF /* power.png in Resources */,
+				5F7468F823C1E9720003B0DF /* wifi.png in Resources */,
+				5F7468FC23C1E9720003B0DF /* menu.png in Resources */,
+				5F7468FA23C1E9720003B0DF /* ico_check_off.png in Resources */,
 				5FBAC13F23B9F4550051F175 /* Preview Assets.xcassets in Resources */,
+				5F7468FB23C1E9720003B0DF /* key_bord_off.png in Resources */,
+				5F7468F923C1E9720003B0DF /* ico_check_on.png in Resources */,
 				5FBAC13C23B9F4550051F175 /* Assets.xcassets in Resources */,
 				5F4723AD23C1C6E600E92508 /* StartUp.xib in Resources */,
 			);
@@ -172,6 +217,7 @@
 				5F4723B223C1D28F00E92508 /* CsUtil.swift in Sources */,
 				5F4723B423C1D3C000E92508 /* Consts.swift in Sources */,
 				5FBAC13623B9F4540051F175 /* AppDelegate.swift in Sources */,
+				5FEF009E23C2207600C4B868 /* CheckBox.swift in Sources */,
 				5FBAC13823B9F4540051F175 /* SceneDelegate.swift in Sources */,
 				5FBAC13A23B9F4540051F175 /* ContentView.swift in Sources */,
 				5F4723AF23C1C7F400E92508 /* StartUp.swift in Sources */,
