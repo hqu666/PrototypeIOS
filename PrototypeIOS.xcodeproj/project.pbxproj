@@ -11,6 +11,7 @@
 		5F4723AF23C1C7F400E92508 /* StartUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4723AE23C1C7F400E92508 /* StartUp.swift */; };
 		5F4723B223C1D28F00E92508 /* CsUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4723B123C1D28F00E92508 /* CsUtil.swift */; };
 		5F4723B423C1D3C000E92508 /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4723B323C1D3C000E92508 /* Consts.swift */; };
+		5F4AB93723C4C47F003B0111 /* CustomDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4AB93623C4C47F003B0111 /* CustomDialog.swift */; };
 		5F7468F823C1E9720003B0DF /* wifi.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F023C1E9710003B0DF /* wifi.png */; };
 		5F7468F923C1E9720003B0DF /* ico_check_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F123C1E9720003B0DF /* ico_check_on.png */; };
 		5F7468FA23C1E9720003B0DF /* ico_check_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 5F7468F223C1E9720003B0DF /* ico_check_off.png */; };
@@ -33,6 +34,7 @@
 		5F4723AE23C1C7F400E92508 /* StartUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartUp.swift; sourceTree = "<group>"; };
 		5F4723B123C1D28F00E92508 /* CsUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CsUtil.swift; sourceTree = "<group>"; };
 		5F4723B323C1D3C000E92508 /* Consts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
+		5F4AB93623C4C47F003B0111 /* CustomDialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDialog.swift; sourceTree = "<group>"; };
 		5F7468EF23C1E94B0003B0DF /* barcord.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barcord.png; sourceTree = "<group>"; };
 		5F7468F023C1E9710003B0DF /* wifi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wifi.png; path = ../wifi.png; sourceTree = "<group>"; };
 		5F7468F123C1E9720003B0DF /* ico_check_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ico_check_on.png; path = ../ico_check_on.png; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 			children = (
 				5F4723B123C1D28F00E92508 /* CsUtil.swift */,
 				5FEF009D23C2207600C4B868 /* CheckBox.swift */,
+				5F4AB93623C4C47F003B0111 /* CustomDialog.swift */,
 			);
 			path = Function;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F4AB93723C4C47F003B0111 /* CustomDialog.swift in Sources */,
 				5F4723B223C1D28F00E92508 /* CsUtil.swift in Sources */,
 				5F4723B423C1D3C000E92508 /* Consts.swift in Sources */,
 				5FBAC13623B9F4540051F175 /* AppDelegate.swift in Sources */,
